@@ -1,3 +1,10 @@
+# 👩🏻‍💻 Learn SQL
+
+Hi, Selamat Datang to my Small SQL Study Case Repo! 🙋🏻‍♀️
+
+Selama belajar SQL saya sadar bahwa cara belajar paling efektif adalah langsung praktik. Jadi saya membuat database rumah sakit sendiri, lalu mencoba menjawab pertanyaan bisnis yang mungkin muncul darinya.
+
+**INTRODUCTION**
 **Rumah_sakit_Axel_Studi_Kasus (Dummy Data)**
 Proyek ini memodelkan sistem rawat jalan rumah sakit skala kecil dan menggunakan SQL untuk menjawab pertanyaan bisnis tentang pasien, dokter, poli, kunjungan, dan resep obat. Saya merancang database relasional, menerapkan integritas data dengan primary key dan foreign key, serta menulis query analisis menggunakan PostgreSQL. <br>
 
