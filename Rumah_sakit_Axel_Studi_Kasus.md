@@ -15,8 +15,8 @@ Enam tabel yang saling berelasi: pasien, dokter, poli, kunjungan, resep, dan oba
 <br>
 **Pertanyaan Bisnis yang Dianalisis**
 <br>
-1. Berapa jumlah kunjungan setiap bulan?
-2. Pasien mana yang paling sering berkunjung?
-3. Apa keluhan pasien yang paling umum?
-4. Bagaimana distribusi usia pasien?
-5. Dokter mana yang menangani pasien terbanyak?
+1. Berapa jumlah kunjungan setiap bulan?<br>
+2. Pasien mana yang paling sering berkunjung?<br>
+3. Apa keluhan pasien yang paling umum?<br>
+4. Bagaimana distribusi usia pasien?<br>
+5. Dokter mana yang menangani pasien terbanyak?<br>
